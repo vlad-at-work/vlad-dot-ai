@@ -1,0 +1,9 @@
+baseURL = "https://vlad.ai/"
+languageCode = "en-us"
+title = "vlad.ai"
+theme="hugo-theme-codex"
+
+#[params]
+#  twitter = "https://twitter.com/vlad_at_work"
+#  github = "https://github.com/vlad-at-work"
+#  iconOrder = ["Twitter", "GitHub"]
