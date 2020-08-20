@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Vlad"
-subheading: "\"When you cut against the grain of the wood, much strength is needed. When you program against the grain of the problem, much code is needed\""
+subheading: "Developer of such hits as \"HelloWorld\", \"Test Project\" and \"Test Project123\""
 handle: "me@vlad.ai"
 ---

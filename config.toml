@@ -3,7 +3,33 @@ languageCode = "en-us"
 title = "vlad.ai"
 theme="hugo-theme-codex"
 
-#[params]
+[params]
 #  twitter = "https://twitter.com/vlad_at_work"
+  linkedin = "http://linkedin.com/in/vlad-at-work"
 #  github = "https://github.com/vlad-at-work"
-#  iconOrder = ["Twitter", "GitHub"]
+# iconOrder = ["Twitter", "GitHub"]
+  iconOrder = ["Linkedin"]
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+#[[menu.main]]
+#  identifier = "posts"
+#  name = "posts"
+#  title = "posts"
+#  url = "/blog"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "abap"
+    tabWidth = 4
