@@ -23,10 +23,10 @@ theme="hugo-theme-codex"
   url = "/blog"
 
 [[menu.main]]
-  identifier = "enoughreddit"
-  name = "enoughreddit"
-  title = "enoughreddit"
-  url = "/enoughreddit"
+  identifier = "lessreddit"
+  name = "lessreddit"
+  title = "lessreddit"
+  url = "/lessreddit"
 
 [markup]
   [markup.highlight]
