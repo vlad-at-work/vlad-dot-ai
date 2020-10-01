@@ -22,6 +22,12 @@ theme="hugo-theme-codex"
   title = "blog"
   url = "/blog"
 
+[[menu.main]]
+  identifier = "enoughreddit"
+  name = "enoughreddit"
+  title = "enoughreddit"
+  url = "/enoughreddit"
+
 [markup]
   [markup.highlight]
     codeFences = true
