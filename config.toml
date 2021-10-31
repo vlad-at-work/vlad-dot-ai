@@ -17,10 +17,10 @@ theme="hugo-theme-codex"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "blog"
-  url = "/blog"
+  identifier = "posts"
+  name = "posts"
+  title = "posts"
+  url = "/posts"
 
 [[menu.main]]
   identifier = "lessreddit"
